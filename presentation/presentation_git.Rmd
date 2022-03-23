@@ -138,4 +138,6 @@ Résumé :
 
 ![](images/commit git ignore.PNG){width=800px}
 
-## 
+## git history
+
+![](images/history.PNG)
