@@ -141,3 +141,19 @@ Résumé :
 ## git history
 
 ![](images/history.PNG)
+
+## git push (GitHub)
+
+![](images/push.PNG)
+
+## git push (GitHub)
+
+![](images/repo_github_after_push.PNG)
+
+## add collaborators
+
+![](images/add_collaborators_1.PNG)
+
+## add collaborators
+
+![](images/add_collaborators_2.PNG)
