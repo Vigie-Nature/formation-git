@@ -9,27 +9,133 @@ output: ioslides_presentation
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-## R Markdown
+## Git
 
-This is an R Markdown presentation. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
+- Git est un logiciel de gestion de versions décentralisé.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document.
+![](images/git_explained.jpg)
 
-## Slide with Bullets
+## GitHub
 
-- Bullet 1
-- Bullet 2
-- Bullet 3
+- GitHub est un service web d'hébergement et de gestion de développement de logiciels, utilisant le logiciel de gestion de versions Git.
 
-## Slide with R Output
+![](images/GitHub-Logo.png)
 
-```{r cars, echo = TRUE}
-summary(cars)
-```
+## Prérequis
 
-## Slide with Plot
+Avoir installé :
 
-```{r pressure}
-plot(pressure)
-```
+- R
+- Rstudio
+- git
 
+## Se connecter sur GitHub
+
+[github.com](github.com)
+
+## Créer un repo sur GitHub
+
+![](images/creation_repo_1.jpg){width=500px}
+
+## Créer un repo sur GitHub
+
+![](images/creation_repo_2.jpg){width=900px}
+
+## Créer un repo sur GitHub
+
+Résumé :
+
+- Cliquer sur **new**
+- Donner un **titre**
+- Choisir le type de repo
+  - Public
+  - **Private** (sans doute mieux dans un premier temps au moins)
+- Ajouter un **README**
+- cliquer sur **Create repository**
+
+## Créer un projet dans Rstudio
+
+![](images/nouveau_projet_1.jpg){width=800px}
+
+## Créer un projet dans Rstudio
+
+![](images/nouveau_projet_2.jpg){width=800px}
+
+## Créer un projet dans Rstudio
+
+![](images/nouveau_projet_3.jpg){width=800px}
+
+## Créer un projet dans Rstudio
+
+![](images/nouveau_projet_4.jpg){width=800px}
+
+## Retour à GitHub
+
+![](images/creation_repo_2b.jpg){width=900px}
+
+## Retour à GitHub
+
+![](images/creation_repo_3.jpg){width=900px}
+
+## Créer un projet dans Rstudio
+
+![](images/nouveau_projet_4.jpg){width=800px}
+
+## Créer un projet dans Rstudio
+
+![](images/nouveau_projet_5.jpg){width=800px}
+
+## Aller voir notre dossier
+
+![](images/git_clone.PNG){width=800px}
+
+## Créer un projet dans Rstudio
+
+Résumé :
+
+- Cliquer sur **New project...**
+- Cliquer sur **Version Control**
+- Cliquer sur **git**
+- Copier l'URL du repo GitHub
+- Ouvrir dans une nouvelle session
+
+## Ranger son dossier à versionner
+
+![](images/dossier_initial.PNG){width=800px}
+
+## Ranger son dossier à versionner
+
+![](images/copie_fichiers.PNG){width=800px}
+
+## Ranger son dossier à versionner
+
+![](images/dossier_final.PNG){width=800px}
+
+
+## Ranger son dossier à versionner
+
+- **ATTENTION AUX DONNEES PERSONNELLES ET SENSIBLES**
+- Mettez les données dans un dossier
+- Suivez votre logique mais attention à bien nommer ses fichiers et dossiers
+
+## Retour dans R
+
+![](images/git_start.jpg){width=800px}
+
+## Git add
+
+![](images/git_add.jpg){width=800px}
+
+## Git commit
+
+![](images/initial_commit.jpg){width=800px}
+
+## gitignore
+
+![](images/gitignore_add.jpg){width=800px}
+
+## git add / git diff/ git commit
+
+![](images/commit git ignore.PNG){width=800px}
+
+## 
