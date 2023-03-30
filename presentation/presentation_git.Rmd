@@ -13,7 +13,10 @@ knitr::opts_chunk$set(echo = FALSE)
 
 - Git est un logiciel de gestion de versions décentralisé.
 
-![](images/git_explained.jpg)
+```{r, out.height= "500px", out.width= "400px"}
+knitr::include_graphics("images/git_explained.jpg")
+```
+
 
 ## GitHub
 
