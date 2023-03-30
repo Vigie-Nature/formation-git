@@ -1,8 +1,10 @@
 ---
 title: "Formation Git et GitHub"
 author: "Simon Benateau"
-date: '2022-03-23'
-output: ioslides_presentation
+date: "2022-03-23"
+output:
+  slidy_presentation: default
+  slidy: default
 ---
 
 ```{r setup, include=FALSE}
